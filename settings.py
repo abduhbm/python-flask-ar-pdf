@@ -1,0 +1,13 @@
+# flask settings
+FLASK_DEBUG = True
+SEND_FILE_MAX_AGE_DEFAULT = 0
+
+# flask rest_plus settings
+RESTPLUS_SWAGGER_UI_DOC_EXPANSION = 'list'
+RESTPLUS_VALIDATE = True
+RESTPLUS_MASK_SWAGGER = False
+RESTPLUS_ERROR_404_HELP = False
+
+# server settings
+ENGINE_AUTO_RELOAD = True
+
