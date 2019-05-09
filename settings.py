@@ -1,5 +1,5 @@
 # flask settings
-FLASK_DEBUG = True
+FLASK_DEBUG = False
 SEND_FILE_MAX_AGE_DEFAULT = 0
 
 # flask rest_plus settings
@@ -9,5 +9,5 @@ RESTPLUS_MASK_SWAGGER = False
 RESTPLUS_ERROR_404_HELP = False
 
 # server settings
-ENGINE_AUTO_RELOAD = True
+ENGINE_AUTO_RELOAD = False
 
