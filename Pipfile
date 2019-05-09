@@ -11,7 +11,3 @@ arabic-reshaper = "*"
 python-bidi = "*"
 reportlab = "*"
 
-[dev-packages]
-
-[requires]
-python_version = "3.6"
