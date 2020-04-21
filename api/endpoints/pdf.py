@@ -9,7 +9,7 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
 from flask import request, send_file
-from flask_restplus import Resource
+from flask_restx import Resource
 
 from api.restplus import utils
 from api.endpoints.parsers import pdf_arg
