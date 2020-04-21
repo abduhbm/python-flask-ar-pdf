@@ -1,6 +1,5 @@
 # python-flask-ar-pdf
-Simple example using Python/Flask to export Arabic PDFs from a dockerized microservice
-
+Simple example using Python/Flask to generate PDF files in Arabic from a dockerized microservice
 
 #### To get the service running:
 From the repo directory, build the container image and make it running:
