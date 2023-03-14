@@ -6,7 +6,7 @@ configparser==5.0.2
 Flask==1.1.2
 Flask-Cors==3.0.10
 flask-restx==0.5.1
-future==0.18.2
+future==0.18.3
 itsdangerous==1.1.0
 Jinja2==2.11.3
 jsonschema==3.2.0
